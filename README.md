@@ -25,13 +25,15 @@ Watch the app in action:
 - Ensured a diverse sample to understand the needs of different demographics.
 - Emphasized safety and ease of use as primary concerns for parents.
 
+<img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/8c0e7b32-9e60-4fca-b26f-965756ca0b0c" alt="Review" width="500" height="300" />
+
 <hr>
 
 <table style="width: 100%;">
   <tr>
     <p>➡️ In addition to fostering creativity, we identified an opportunity to educate kids about various art forms and provide a platform for parents to discover and support their children's talents.</p>
     <p>➡️ Observing the need for a secure online environment, we decided to implement robust parental controls, ensuring a safe and age-appropriate experience for kids.</p>
-   
+
   </tr>
 </table>
 
@@ -62,33 +64,15 @@ Watch the app in action:
 - Parental controls for a safe and controlled environment.
 - Educational content to introduce various art forms.
 - comment chat feature for parent-child & buyer communication.
-- call System for added.
+- call System added.
 
 
-<hr>
 
-<table style="width: 100%;">
-  <tr>
-    <td style="text-align: center;">
-      <img src="<Image 1 Link>" alt="Image 1" style="width: 100%;">
-      <p>Profile Creation</p>
-    </td>
-    <td style="text-align: center;">
-      <img src="< Image 2 Link>" alt="Image 2" style="width: 100%;">
-      <p>Craft Showcase</p>
-    </td>
-    <td style="text-align: center;">
-      <img src="< Image 3 Link>" alt="Image 3" style="width: 100%;">
-      <p>Buyer Section</p>
-    </td>
-    <td style="text-align: center;">
-      <img src="< Image 4 Link>" alt="Image 4" style="width: 100%;">
-      <p>Seller on MAP</p>
-    </td>
-  </tr>
-</table>
 
-<hr>
+### 📝 Prerequisites
+
+- Android emulator or physical device [Download Expo App here](https://play.google.com/store/apps/details?id=host.exp.exponent&pcampaignid=web_share)
+
 
 
 
@@ -125,9 +109,6 @@ Now to run the app, run this command.
 npm start
 ```
 
-### 📝 Prerequisites
-
-- Android emulator or physical device
 
 <hr>
 
@@ -152,9 +133,6 @@ Set up your profile with an avatar and share fun facts about yourself. Let the w
 
 Share your crafts with the world! Upload images and descriptions to showcase your artistic creations.
 
-### 🤝 Parental Controls
-
-Parents can manage and monitor their kids' activities through the parental control feature. Ensure a safe and age-appropriate experience.
 
 ### 📚 Learn and Create
 
@@ -175,6 +153,10 @@ Access emergency contacts quickly for added safety. Parents can set up contacts 
 
 Participate in the reward system to earn recognition for your creative efforts. Collect badges and showcase your achievements!
 
+### 🤝 Parental Controls
+
+Parents can manage and monitor their kids' activities through the parental control feature. Ensure a safe and age-appropriate experience.
+
 <hr>
 
 ## 🤝 Contributing
@@ -184,3 +166,58 @@ If you'd like to contribute to KidsCraft, fork the project on GitHub and submit 
 ## 🪪 License
 
 KidsCraft is licensed under the MIT license. See [LICENSE.txt](LICENSE.txt) for more information.
+
+
+<hr>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/ecbd59f3-8027-4896-8efa-96a254f55b35" alt="User Page" style="width: 100%;">
+      <p>User Page</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/b0e184ba-3b62-4b06-b4e5-809eddedd706" alt="Registration Page" style="width: 100%;">
+      <p>Registration Page</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/0b031d26-1931-42ff-95d1-b5bd19a91dab" alt="Login Page" style="width: 100%;">
+      <p>Login Page</p>
+    </td> </tr>
+   <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/1acdc802-abe3-4a5a-8a6f-911c4243f5bd" alt="Seller Homepage" style="width: 100%;">
+      <p>Seller Homepage</p>
+    </td>
+     <td style="text-align: center;">
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/fe9f9aa7-796a-41e4-855e-54f37eaff343" alt="Add Service" style="width: 100%;">
+      <p>Add Service</p>
+    </td>
+     <td style="text-align: center;">
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/49b7747a-046c-4eb3-8454-813abc259c03" alt="View Orders" style="width: 100%;">
+      <p>View Orders</p> </tr>
+    <tr> </td>
+     <td style="text-align: center;">
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/fafdb8ca-f550-4af6-9f5e-58a53804206c" alt="About Information" style="width: 100%;">
+      <p>About Information</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/442a7dd3-d222-44f3-9c44-cd745aa59344" alt="Buyer Homepage" style="width: 100%;">
+      <p>Buyer Homepage</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/8b238be3-208f-4eb3-80df-33b3878eb994" alt="Buy Item" style="width: 100%;">
+      <p>Buy Item</p>
+    </td> </tr>
+    <tr> <td style="text-align: center;">
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/1de33c9b-e822-44e3-8228-f9d887e2e43c" alt="Comment" style="width: 100%;">
+      <p>Comment</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/5045649f-e157-4307-bcbe-03e9497ab8b7" alt="Sellers on MAP" style="width: 100%;">
+      <p>Sellers on MAP</p>
+    </td>
+  </tr>
+</table>
+
+<hr>
