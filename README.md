@@ -36,6 +36,20 @@ Watch the app in action:
 
   </tr>
 </table>
+<hr>
+
+## Features
+
+
+
+- Secure platform for showcasing and selling kids' crafts.
+- Create customizable profiles with avatars and fun facts.
+- Share crafts through images and descriptions.
+- Parental controls for a safe and controlled environment.
+- Educational content to introduce various art forms.
+- comment chat feature for parent-child & buyer communication.
+- call System added.
+- Chatbot to ask queston.
 
 <hr>
 
@@ -54,32 +68,19 @@ Watch the app in action:
 
 <hr>
 
-## Features
-
-<hr>
-
-- Secure platform for showcasing and selling kids' crafts.
-- Create customizable profiles with avatars and fun facts.
-- Share crafts through images and descriptions.
-- Parental controls for a safe and controlled environment.
-- Educational content to introduce various art forms.
-- comment chat feature for parent-child & buyer communication.
-- call System added.
-- Chatbot to ask queston.
 
 
-
-
-### 📝 Prerequisites
+## 📝 Prerequisites
 
 - Android emulator or physical device [Download Expo App here](https://play.google.com/store/apps/details?id=host.exp.exponent&pcampaignid=web_share)
 
 
 
+<hr>
 
 ## 🏃‍♀️ Getting Started
 
-<hr>
+
 
 ### 🛠️ Installation
 
@@ -122,7 +123,6 @@ npm start
 
 ## ❓ How to Use
 
-<hr>
 
 Once you've deploy KidsCraft, follow these steps to unleash creativity and fun:
 
@@ -147,8 +147,10 @@ Explore the educational content section to learn about different art forms. Enha
 
 Chatbot for slove questions and get feedback.
 
-### Upcoming
 <hr>
+
+## Upcoming
+
 
 ### 💬 Secure Chat
 
