@@ -65,6 +65,7 @@ Watch the app in action:
 - Educational content to introduce various art forms.
 - comment chat feature for parent-child & buyer communication.
 - call System added.
+- Chatbot to ask queston.
 
 
 
@@ -137,6 +138,10 @@ Share your crafts with the world! Upload images and descriptions to showcase you
 ### 📚 Learn and Create
 
 Explore the educational content section to learn about different art forms. Enhance your skills and become a master crafter!
+
+### 💬 Chatbot KidGemini
+
+Chatbot for slove questions and get feedback.
 
 ### Upcoming
 <hr>
@@ -217,7 +222,12 @@ KidsCraft is licensed under the MIT license. See [LICENSE.txt](LICENSE.txt) for 
       <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/5045649f-e157-4307-bcbe-03e9497ab8b7" alt="Sellers on MAP" style="width: 100%;">
       <p>Sellers on MAP</p>
     </td>
+      <td style="text-align: center;">
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/7070135f-53c3-4a6d-8edf-2d6538d66f22" alt="KidGemini Bot" style="width: 100%;">
+      <p>Sellers on MAP</p>
+    </td>
   </tr>
 </table>
+
 
 <hr>
