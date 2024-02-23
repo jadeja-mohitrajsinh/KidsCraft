@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import { TextInput, TouchableOpacity, View, Text, StyleSheet, ScrollView } from 'react-native';
 
-const API_KEY = 'AIzaSyB92t9KEXPY1FvGMhTXo7nWIsZKZBp7CCY';
+const API_KEY = 'YOUR_API_KEY';
 
 interface GeminiChatbotProps {
   isVisible: boolean;
