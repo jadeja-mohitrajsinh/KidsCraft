@@ -41,9 +41,7 @@ const GeminiChatbot: React.FC<GeminiChatbotProps> = ({ isVisible, onClose }) => 
       const response = await result.response;
       const text = response.text();
 
-      // Add user's message to the chat
       setMessages((prevMessages) => [...prevMessages, { id: Date.now(), text: input, isUser: true }]);
-      // Add chatbot's response to the chat
       setMessages((prevMessages) => [...prevMessages, { id: Date.now() + 1, text, isUser: false }]);
 
       setInput('');
@@ -113,7 +111,7 @@ const styles = StyleSheet.create({
     width: 30,
     height: 30,
     borderRadius: 15,
-    backgroundColor: '#fff', // You can change the background color of the logo
+    backgroundColor: '#fff', 
     marginRight: 10,
   },
   headerText: {
