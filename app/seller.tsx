@@ -1,5 +1,3 @@
-// screens/seller.tsx
-
 import React, { useState } from 'react';
 import { StyleSheet, SafeAreaView, FlatList, RefreshControl, ToastAndroid, TouchableOpacity, Text } from 'react-native';
 import { useEffect } from 'react';
