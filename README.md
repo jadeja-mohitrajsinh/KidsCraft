@@ -38,7 +38,7 @@ Watch the app in action:
 </table>
 <hr>
 
-## Features
+## 🍟 Features
 
 
 
