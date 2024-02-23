@@ -230,8 +230,8 @@ KidsCraft is licensed under the MIT license. See [LICENSE.txt](LICENSE.txt) for 
       <p>Sellers on MAP</p>
     </td>
       <td style="text-align: center;">
-      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/7070135f-53c3-4a6d-8edf-2d6538d66f22" alt="KidGemini Bot" style="width: 100%;">
-      <p>Sellers on MAP</p>
+      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/7070135f-53c3-4a6d-8edf-2d6538d66f22" alt="KidGemi ChatBot" style="width: 100%;">
+      <p>KidGemi ChatBot</p>
     </td>
   </tr>
 </table>
