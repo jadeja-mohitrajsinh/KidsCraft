@@ -104,6 +104,10 @@ EXPO_PUBLIC_MESSAGING_SENDER_ID=
 EXPO_PUBLIC_APP_ID=
 ```
 
+Add Gemini API key in components/GeminiChatbot.tsx.
+```
+const API_KEY = 'YOUR_API_KEY';
+```
 Now to run the app, run this command.
 
 ```
