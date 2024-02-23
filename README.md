@@ -144,7 +144,7 @@ Share your crafts with the world! Upload images and descriptions to showcase you
 
 Explore the educational content section to learn about different art forms. Enhance your skills and become a master crafter!
 
-### 💬 Chatbot KidGemini
+### 💬 Chatbot: KidGemi
 
 Chatbot for slove questions and get feedback.
 
