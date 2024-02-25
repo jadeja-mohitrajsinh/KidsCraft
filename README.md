@@ -9,9 +9,9 @@ KidsCraft is not just an app; it's a community dedicated to fostering creativity
 
 Watch the app in action:
 
-<a href="https://www.youtube.com/watch?v=vrij0WHAo3s" target="_blank">
-    <img src="https://img.youtube.com/vi/vrij0WHAo3s/0.jpg" alt="KidsCraft - GDSC Solution Challenge 2024 | Unleashing Innovation Exploring" style="width:400px; height:300px;">
-</a>
+<a href="https://www.youtube.com/watch?v=vrij0WHAo3s">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge"/>
+  </a> 	
 
 
 <hr>
