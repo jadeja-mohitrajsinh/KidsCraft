@@ -2,8 +2,6 @@
 
 <div style="display: flex;">
   
-  <img src="/assets/images/logo.png" alt="app logo" width="250" height="200" />
-
 
 </div>
 
@@ -11,9 +9,10 @@ KidsCraft is not just an app; it's a community dedicated to fostering creativity
 
 Watch the app in action:
 
-<a href="< YouTube Video Link>">
-    <img src="< YouTube Thumbnail Link>" alt="YouTube Demo" style="width:200px; height:120px;">
-</a> 
+<a href="https://www.youtube.com/watch?v=vrij0WHAo3s" target="_blank">
+    <img src="https://img.youtube.com/vi/vrij0WHAo3s/0.jpg" alt="KidsCraft - GDSC Solution Challenge 2024 | Unleashing Innovation Exploring" style="width:400px; height:300px;">
+</a>
+
 
 <hr>
 
